@@ -1,0 +1,12 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex simples em HTML, CSS e JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Abra o index.html no navegador' && exit 0"
+  },
+  "keywords": [],
+  "author": "Luiz Eduardo Oliveira Ribeiro",
+  "license": "MIT"
+}
